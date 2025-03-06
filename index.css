@@ -67,7 +67,7 @@ main {
     flex: 1;
 }
 
-/* this might change in the future */
+/* this might change in the future (Robert) */
 .contact-form {
     display: flex;
     justify-content: center;
@@ -81,7 +81,7 @@ main {
     border-radius: 5px;
 }
 
-/*end of the future changes*/
+/*end of the future changes (Robert)*/
 
 .footer-right {
     flex: 1;
