@@ -7,7 +7,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/*header Content*/
 header {
     background-color: black;
     color: white;
@@ -47,7 +47,13 @@ main {
     border-radius: 5px;
     cursor: pointer;
 }
+/*end of Header content*/
 
+
+/*Body content*/
+
+
+/*End of body content*/
 
 
 /*footer content*/
